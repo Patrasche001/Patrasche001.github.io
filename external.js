@@ -68,14 +68,14 @@ window.addEventListener('load', () => {
 // 投稿データ（画像・動画対応）
 const posts = [
   {
-    text: "コミティア157に出たよ。暑くて死にそうだよ。なんでよりにもよって初参加で夏に出ようと思った？？？",
-    time: "2026/8/23",
+    text: "テストだよ。画像、リンクが貼れるよ。",
+    time: "2026/6/27",
     image: "",
     link: "https://www.pixiv.net/users/23562545"
   },
   {
     text: "Webサイト、爆誕。",
-    time: "2026/8/23",
+    time: "2026/6/27",
     image: "",
     link: null
   }
