@@ -172,6 +172,7 @@ img {
   content: "";
   position: absolute;
   top: calc(50% - 3px);
+  right: 30px;
   width: 30px;
   height: 8px;
   background-color: #fff;
