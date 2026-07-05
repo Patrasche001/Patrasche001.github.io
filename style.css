@@ -371,7 +371,6 @@ h2 {
   border-radius: 12px;
   overflow: hidden;
   border: 1px solid #333;
-  max-height: 320px;
   width: 100%;
   background: #111;
 }
