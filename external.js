@@ -68,6 +68,12 @@ window.addEventListener('load', () => {
 // 投稿データ（画像・動画対応）
 const posts = [
   {
+    text: "五話出来るまでの間Extraを置いておくよ。",
+    time: "2026/7/5",
+    image: "./info/Extra1.jpg",
+    link: null
+  },
+  {
     text: "テストだよ。画像、リンクが貼れるよ。",
     time: "2026/6/27",
     image: "",
