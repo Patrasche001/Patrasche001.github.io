@@ -80,12 +80,6 @@ const posts = [
     link: null
   },
   {
-    text: "テストだよ。画像、リンクが貼れるよ。",
-    time: "2026/6/27",
-    image: "",
-    link: "https://www.pixiv.net/users/23562545"
-  },
-  {
     text: "Webサイト、爆誕。",
     time: "2026/6/27",
     image: "",
