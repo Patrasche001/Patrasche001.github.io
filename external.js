@@ -68,9 +68,15 @@ window.addEventListener('load', () => {
 // 投稿データ（画像・動画対応）
 const posts = [
   {
-    text: "五話出来るまでの間Extraを置いておくよ。",
+    text: "COMITIA157参加するよ。【R20b】<br>ソシャゲ風広告描いてくれたお友達…辛岩サガリさん(@senseeeuwaaaaa)<br>文字デザインしてくれたお友達…ゴダイゴさん(@Godaigo_1288)",
+    time: "2026/8/5",
+    image: "./info/info2.jpg",
+    link: null
+  },
+  {
+    text: "Extra1を掲載したよ。",
     time: "2026/7/5",
-    image: "./info/Extra1.jpg",
+    image: "./info/info1.jpg",
     link: null
   },
   {
