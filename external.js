@@ -68,7 +68,7 @@ window.addEventListener('load', () => {
 // 投稿データ（画像・動画対応）
 const posts = [
   {
-    text: "COMITIA157参加するよ。【R20b】<br>ソシャゲ風広告描いてくれたお友達…辛岩サガリさん(<a href=https://x.com/senseeeuwaaaaa target=_blank rel=noopener noreferrer>@senseeeuwaaaaa</a>)<br>文字デザインしてくれたお友達…ゴダイゴさん(<a href=https://x.com/Godaigo_1288 target=_blank rel=noopener noreferrer>@Godaigo_1288</a>)",
+    text: "COMITIA157参加するよ。【R20b】<br>ソシャゲ風広告描いてくれたお友達…辛岩サガリさん(<a href=https://x.com/senseeeuwaaaaa target=_blank rel=noopener>@senseeeuwaaaaa</a>)<br>文字デザインしてくれたお友達…ゴダイゴさん(<a href=https://x.com/Godaigo_1288 target=_blank rel=noopener>@Godaigo_1288</a>)",
     time: "2026/8/5",
     image: "./info/info2.jpg",
     link: null
@@ -97,7 +97,7 @@ function renderPosts() {
     let mediaHTML = '';
     if (post.link) {
       mediaHTML = `
-          <a href="${post.link}" target="_blank" rel="noopener noreferrer">${post.link}</a>
+          <a href="${post.link}" target="_blank" rel="noopener">${post.link}</a>
       `;
     } else if (post.image) {
       mediaHTML = `
