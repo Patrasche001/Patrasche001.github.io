@@ -68,6 +68,12 @@ window.addEventListener('load', () => {
 // 投稿データ（画像・動画対応）
 const posts = [
   {
+    text: "差し入れとかファンアートとか色々貰えたよ。嬉しいね。<br>5話は今週の土曜に掲載するよ。",
+    time: "2026/8/24",
+    image: "./info/info3.jpg",
+    link: null
+  },
+  {
     text: "COMITIA157参加するよ。【R20b】<br>ソシャゲ風広告描いてくれたお友達…辛岩サガリさん(<a href=https://x.com/senseeeuwaaaaa target=_blank rel=noopener>@senseeeuwaaaaa</a>)<br>文字デザインしてくれたお友達…ゴダイゴさん(<a href=https://x.com/Godaigo_1288 target=_blank rel=noopener>@Godaigo_1288</a>)",
     time: "2026/8/5",
     image: "./info/info2.jpg",
